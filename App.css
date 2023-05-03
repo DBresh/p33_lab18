@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+}
+
+.green {
+  background: green;
+}
+.orange {
+  background: orange;
+}
+
+ol{
+  list-style-type: none;
+}
+
+li{
+  height: 30px;
+  width: 400px;
+}
